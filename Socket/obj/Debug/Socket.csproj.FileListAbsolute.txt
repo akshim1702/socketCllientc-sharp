@@ -1,0 +1,8 @@
+D:\C sharp\Socket\Socket\bin\Debug\Socket.exe.config
+D:\C sharp\Socket\Socket\bin\Debug\Socket.exe
+D:\C sharp\Socket\Socket\bin\Debug\Socket.pdb
+D:\C sharp\Socket\Socket\obj\Debug\Socket.csproj.AssemblyReference.cache
+D:\C sharp\Socket\Socket\obj\Debug\Socket.csproj.SuggestedBindingRedirects.cache
+D:\C sharp\Socket\Socket\obj\Debug\Socket.csproj.CoreCompileInputs.cache
+D:\C sharp\Socket\Socket\obj\Debug\Socket.exe
+D:\C sharp\Socket\Socket\obj\Debug\Socket.pdb
